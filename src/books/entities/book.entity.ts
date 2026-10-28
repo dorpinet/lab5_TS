@@ -5,4 +5,5 @@ export interface Book {
   isbn: string;
   pageCount: number;
   author: string;
+  slug: string;
 }
